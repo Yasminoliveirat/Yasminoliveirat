@@ -1,0 +1,5 @@
+- 👋 Oi, eu sou @Yasminoliveirat
+- 👀 Estou interessada em aprender a programar 
+- 🌱 I’m currently learning html
+- 💞️ Não sei como usar isso aqui ainda 
+- 📫 Mas sei que em breve vou precisar usar para trabalhar 
