@@ -14,3 +14,9 @@
   <a href="https://www.linkedin.com/in/yasmin-o-51b72110a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<a href="https://github.com/felipealvescr" title="ilustração do mapeamento de linguagens">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipealvescr&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
+</a>
+
+<br>
